@@ -2,7 +2,7 @@
 
 **🔵 I'm a Software Engineer**   
 
-**🟠 Ask me about Front-end track**
+**🟠 Ask me about Front-end HTML, CSS, JavaScript**
 
 **🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammad-mohsen-haidari-b15584235/), <a href="https://mmhaidari.github.io/portfolio-setup-and-mobile-first/" target="_blanck"> Gmail </a>**
 
