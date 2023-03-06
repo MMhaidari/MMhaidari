@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+**🔵 I'm a Software Engineer**   
+
+**🟠 Ask me about Front-end track**
+
+**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/habibpayenda/), <a href="mailto:habiburahmanpayenda@gmail.com" target="_blanck"> Gmail </a>**
+
+<!-- **🟠 Check [my resume]()** -->
+
+**🟠 I’m currently learning at**<a href="https://www.microverse.org/" target="_blanck"> ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) </a> 
 <!--
 **MMhaidari/MMhaidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
