@@ -26,8 +26,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMhaidari&theme=default)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMhaidari&theme=default&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMhaidari)](https://github.com/MMhaidari/github-readme-stats)
-
-
-<a href="https://github.com/MMhaidari/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MMhaidari&repo=github-readme-stats" />
-</a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MMhaidari)](https://github.com/MMhaidari/github-readme-stats)
