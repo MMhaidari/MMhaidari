@@ -21,9 +21,11 @@
     <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </div>
 
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMhaidari&theme=default)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMhaidari&theme=default&show_icons=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMhaidari&theme=default)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMhaidari)](https://github.com/MMhaidari/github-readme-stats)
 
 
