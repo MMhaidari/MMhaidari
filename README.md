@@ -7,6 +7,7 @@
 **🔵 I’m currently learning at**<a href="https://www.microverse.org/" target="_blanck"> ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) </a> 
 
 **🟠 Fun fact: I love playing football**
+**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammad-mohsen-haidari-b15584235/), <a href="mailto:mohsenhaidari0766@gmail.com" target="_blanck"> Gmail </a>**
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMhaidari&theme=default)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMhaidari&theme=default&show_icons=true)
