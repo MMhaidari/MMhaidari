@@ -2,9 +2,9 @@
 
 **🔵 I'm a Front-end Developer**   
 
-**🟠 Ask me about Front-end HTML, CSS, JavaScript**
+**🟠I’m currently learning at**<a href="https://www.microverse.org/" target="_blanck"> ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) </a> 
 
-**🔵 I’m currently learning at**<a href="https://www.microverse.org/" target="_blanck"> ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) </a> 
+**🔵 Ask me about Front-end HTML, CSS, JavaScript**
 
 **🟠 Fun fact: I love playing football**
 
