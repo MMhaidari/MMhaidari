@@ -4,22 +4,10 @@
 
 **🟠 Ask me about Front-end HTML, CSS, JavaScript**
 
-<!-- **🟠 Check [my resume]()** -->
-
 **🔵 I’m currently learning at**<a href="https://www.microverse.org/" target="_blanck"> ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) </a> 
-**🟠 Fun fact: I love playing football**
-<!--
-**MMhaidari/MMhaidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🟠 Fun fact: I love playing football**
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMhaidari&theme=default)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMhaidari&theme=default&show_icons=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMhaidari&theme=default)
