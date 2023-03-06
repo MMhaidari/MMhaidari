@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=F7630C&size=35&width=500&lines=Hello+World!+👋;I+am+Mohammad+Mohsen+Haidari;Nice+to+meet+you...; )](https://git.io/typing-svg)
 
-**🔵 I'm a Software Engineer**   
+**🔵 I'm a Front-end Developer**   
 
 **🟠 Ask me about Front-end HTML, CSS, JavaScript**
 
