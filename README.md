@@ -6,7 +6,7 @@
 
 <!-- **🟠 Check [my resume]()** -->
 
-**🟠 I’m currently learning at**<a href="https://www.microverse.org/" target="_blanck"> ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) </a> 
+**🔵 I’m currently learning at**<a href="https://www.microverse.org/" target="_blanck"> ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) </a> 
 <!--
 **MMhaidari/MMhaidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
