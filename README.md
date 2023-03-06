@@ -4,8 +4,6 @@
 
 **🟠 Ask me about Front-end HTML, CSS, JavaScript**
 
-**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammad-mohsen-haidari-b15584235/), <a href="https://mmhaidari.github.io/portfolio-setup-and-mobile-first/" target="_blanck"> Gmail </a>**
-
 <!-- **🟠 Check [my resume]()** -->
 
 **🟠 I’m currently learning at**<a href="https://www.microverse.org/" target="_blanck"> ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) </a> 
