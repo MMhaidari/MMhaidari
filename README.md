@@ -10,10 +10,6 @@
 
 **🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammad-mohsen-haidari-b15584235/), <a href="mailto:mohsenhaidari0766@gmail.com" target="_blanck"> Gmail </a>**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMhaidari&theme=default)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMhaidari&theme=default&show_icons=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMhaidari&theme=default)
-
 
 ## My Coding Skills
 
@@ -24,3 +20,10 @@
     <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"></code>
     <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMhaidari&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMhaidari&theme=default&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMhaidari&theme=default)
+
+
+
