@@ -9,6 +9,7 @@
 **🟠 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammad-mohsen-haidari-b15584235/), <a href="mailto:mohsenhaidari0766@gmail.com" target="_blanck"> Gmail </a>**
 
 **🔵  Fun fact: I love playing football**
+
 **🟠 Currently learning react and redux**
 
 <p align="center"><img  src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/></p>
