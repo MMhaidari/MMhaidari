@@ -4,7 +4,7 @@
 
 **🟠I’m currently learning at**<a href="https://www.microverse.org/" target="_blanck"> ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) </a> 
 
-**🔵 Ask me about Front-end HTML, CSS, JavaScript**
+**🔵 Ask me about Front-end, Bank-end, Full-stack**
 
 **🟠 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammad-mohsen-haidari/), <a href="mailto:mohsenhaidari0766@gmail.com" target="_blanck"> Gmail </a>**
 
