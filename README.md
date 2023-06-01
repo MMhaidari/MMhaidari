@@ -10,8 +10,6 @@
 
 **🔵  Fun fact: I love playing football**
 
-**🟠 Currently learning react and redux**
-
 <p align="center"><img  src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/></p>
 
 ## My Coding Skills
