@@ -26,6 +26,7 @@
 <hr>
 
 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMhaidari&theme=default)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMhaidari&theme=default&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMhaidari&hide_progress=true)](https://github.com/MMhaidari/github-readme-stats)
