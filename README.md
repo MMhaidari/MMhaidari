@@ -2,13 +2,11 @@
 
 **🔵 I'm a Front-end Developer**   
 
-**🟠I’m currently learning at**<a href="https://www.microverse.org/" target="_blanck"> ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) </a> 
+**🟠 Ask me about Front-end, Bank-end, Full-stack**
 
-**🔵 Ask me about Front-end, Bank-end, Full-stack**
+**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammad-mohsen-haidari/), <a href="mailto:mohsenhaidari0766@gmail.com" target="_blanck"> Gmail </a>**
 
-**🟠 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammad-mohsen-haidari/), <a href="mailto:mohsenhaidari0766@gmail.com" target="_blanck"> Gmail </a>**
-
-**🔵  Fun fact: I love playing football**
+**🟠  Fun fact: I love playing football**
 
 <p align="center"><img  src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/></p>
 
