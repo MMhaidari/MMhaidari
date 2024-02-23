@@ -130,7 +130,6 @@
 <br><br>
 
 </div>
-
 <hr>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMhaidari&theme=default)
